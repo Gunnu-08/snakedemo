@@ -1,2 +1,4 @@
 # snakedemo
-this is the snakemania
+this is the snakegame
+    SNAKEMANIA
+
